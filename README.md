@@ -23,7 +23,7 @@ This is a personal website built with HTML, CSS, and JavaScript, showcasing my F
    cd Shine-Smile-Website
    ```
 3. **Open the CV**:
-   - Open `index.html` in a browser to view the CV locally.
+   - Open `index.html` in a browser to view the website.
    - Alternatively, deploy to GitHub Pages or a web server.
 
 ---
