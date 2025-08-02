@@ -1,4 +1,4 @@
-# 📚 The Shine Smile
+# 📚 The Shine Smile Landing Page
 
 This is a personal website built with HTML, CSS, and JavaScript, showcasing my Frontend skills and documenting my amazing projects on my journey to becoming a Frontend Developer.🚀
 # My Website on:
