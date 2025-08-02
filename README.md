@@ -1,6 +1,6 @@
 # 📚 The Shine Smile
 
-This is a personal website built with HTML, CSS, and JavaScript, showcasing my Frontend skills and documenting my amazing projects on my journey to becoming a Frontend Developer. With a friendly interface, responsive, and light/dark mode, this CV is where I proudly share my achievements and passion! 🚀
+This is a personal website built with HTML, CSS, and JavaScript, showcasing my Frontend skills and documenting my amazing projects on my journey to becoming a Frontend Developer.🚀
 # My Website on:
 | PC | Mobile |
 |------------|------------|
